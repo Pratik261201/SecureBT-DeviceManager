@@ -48,7 +48,7 @@ A command-line Python tool to securely manage and simulate Bluetooth Classic and
 ### Installation
 
 ```bash
-pip install bleak pycryptodome
+pip install -r requirements.txt
 ```
 
 ### Running the Application
@@ -120,3 +120,4 @@ This project is built for **educational and authorized use only**.
 Do **not** use it to scan or interact with unauthorized Bluetooth devices.
 Always ensure you have consent for any device scanning or connection.
 ---
+x
